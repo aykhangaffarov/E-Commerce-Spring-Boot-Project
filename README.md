@@ -9,6 +9,15 @@ cd E-Commerce-Spring-Boot-Project
 ./mvnw package
 java -jar target/*.jar
 ```
+# Techonologies I have used
+*Spring Boot
+*Thymeleaf
+*Spring Security
+*Spring MVC and REST
+*JDBC 
+*PostgreSql as database
+*PayPal API
+*Lombok
 
 # Database Configuration
 In its default configuration, Petclinic uses PostgreSQL. We have to configure PostgreSQL credentials in application.properties file in src/main/resources path:
